@@ -1,6 +1,6 @@
 ﻿namespace InfoSystemAssignment
 {
-    partial class Form1
+    partial class Login
     {
         /// <summary>
         /// Required designer variable.
@@ -51,7 +51,7 @@
             this.loginToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(786, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(786, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -98,11 +98,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(310, 78);
+            this.label1.Location = new System.Drawing.Point(308, 85);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(146, 29);
+            this.label1.Size = new System.Drawing.Size(172, 29);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Posh Nosh";
+            this.label1.Text = "POSH NOSH";
             // 
             // label2
             // 
