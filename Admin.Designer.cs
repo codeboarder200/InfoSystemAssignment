@@ -42,6 +42,7 @@
             this.btnAddCaterType.TabIndex = 0;
             this.btnAddCaterType.Text = "Add catering type";
             this.btnAddCaterType.UseVisualStyleBackColor = true;
+            this.btnAddCaterType.Click += new System.EventHandler(this.btnAddCaterType_Click);
             // 
             // btnReturn
             // 
