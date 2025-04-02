@@ -52,6 +52,10 @@
     <Compile Include="Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <Compile Include="CateringArrayClass.cs" />
+    <Compile Include="InputBoxClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
