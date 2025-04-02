@@ -72,6 +72,7 @@
             this.Controls.Add(this.btnReturn);
             this.Controls.Add(this.btnAddCaterType);
             this.Name = "Admin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Admin";
             this.ResumeLayout(false);
             this.PerformLayout();

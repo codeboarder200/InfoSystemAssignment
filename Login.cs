@@ -16,5 +16,24 @@ namespace InfoSystemAssignment
         {
             InitializeComponent();
         }
+
+        private void loginToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if ()
+            {
+                Admin A1 = new Admin();
+                this.Visible = false;
+                A1.ShowDialog();
+            } else if ()
+            {
+                Order O1 = new Order();
+                this.Visible = false;
+                O1.ShowDialog();
+            }
+            else
+            {
+
+            }
+        }
     }
 }

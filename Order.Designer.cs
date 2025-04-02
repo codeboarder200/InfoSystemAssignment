@@ -74,7 +74,7 @@
             this.orderToolStripMenuItem});
             this.menuStrip2.Location = new System.Drawing.Point(0, 0);
             this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Size = new System.Drawing.Size(882, 28);
+            this.menuStrip2.Size = new System.Drawing.Size(882, 30);
             this.menuStrip2.TabIndex = 2;
             this.menuStrip2.Text = "menuStrip2";
             // 
@@ -290,6 +290,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip2);
             this.Name = "Order";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Order";
             this.menuStrip2.ResumeLayout(false);
             this.menuStrip2.PerformLayout();
