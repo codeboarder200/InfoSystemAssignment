@@ -73,6 +73,7 @@ namespace InfoSystemAssignment
         {
             cmbLogin.SelectedIndex = -1;
             txtPassword.Text = "";
+            cmbLogin.Focus();
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
